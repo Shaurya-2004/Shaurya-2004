@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🌌 AI/ML Engineer | Computer Science @ KIIT
+### 🌌 Computer Science Student @ KIIT | AI/ML & Deep Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=AI%2FML+%7C+Deep+Learning;Computer+Vision+Systems;Generative+AI+%26+Transformers;Building+Real-World+AI+Applications" />
 
